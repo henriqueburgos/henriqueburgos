@@ -12,7 +12,7 @@
 <h3> Social :iphone: </h3>
 <br>
 
-<a  href="https://www.linkedin.com/in/henrique-burgos-33b35420b/" target="_blank">
+<a  href="https://www.linkedin.com/in/luizhenriqueburgos" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 <a  href="https://www.instagram.com/henriqueburgosfs/" target="_blank">
